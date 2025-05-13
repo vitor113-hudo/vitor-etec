@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar&display=swap');
+
+img{
+    width: 1000px;
+    padding: 20px;
+    margin-left:1000px;
+    opacity: 10%;
+}
+img:hover{
+    opacity: 100%;
+    transition:10s;
+    filter: brightness(1000);
+}
+ body{
+background-color: rgb(0, 0, 0);
+font-family: "Sigmar", sans-serif;
+}
+p{
+    color:white;
+    font-size: 30px;
+    text-align: center;
+}
+h1{
+    color: white;
+}
